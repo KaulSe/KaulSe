@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sebastien
+Hi, I’m Sebastien - a cyber security researcher
 
-<!---
-KaulSe/KaulSe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Profiles
+- [BugCrowd](https://bugcrowd.com/Kaulse)
+- [HackerOne](https://hackerone.com/kaulse)
+- [Twitter](https://twitter.com/4353_37)
